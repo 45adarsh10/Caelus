@@ -59,7 +59,7 @@ there).
 
 With Gazebo and SITL already running:
 ```bash
-python3 day12.py
+python3 qr-sim.py
 ```
 Hold a QR code up to your webcam once the console prints
 "Searching for QR code...".
